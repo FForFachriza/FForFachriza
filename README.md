@@ -16,4 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FForFachriza&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fforfachriza&label=Profile%20views&color=0e75b6&style=flat" alt="fforfachriza" /> </p>
