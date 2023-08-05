@@ -1,4 +1,7 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://github.com/FForFachriza/FForFachriza/assets/68158429/a767aecb-af5a-4b69-b2e0-a4a7817bb2d7"/>
+</p>
 🌱 I’m currently learning Javascript Framework especially NextJS, React and Prisma<br>👨‍💻 All of my projects are available at my Github<br> 📫 How to reach me **dimasavrian346@gmail.com**
 
 
@@ -10,14 +13,21 @@
 <center>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/458236535595204611)](https://discord.com/users/458236535595204611)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForFachriza&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/458236535595204611)](https://discord.com/users/458236535595204611)
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ijmi5i3si5rvfkus29gx3sfcd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ijmi5i3si5rvfkus29gx3sfcd&redirect=true)
-</center>
-
+ -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fforfachriza&label=Profile%20views&color=0e75b6&style=flat" alt="fforfachriza" /> </p>
 
